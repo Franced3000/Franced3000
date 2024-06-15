@@ -1,16 +1,31 @@
-## Hi there 👋
+## CIAO there 👋
 
-<!--
-**Franced3000/Franced3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+I'm Francesco, a creative and focused software developer. I've achieved great results through my passion for helping people and expressing myself through my projects. My journey in software development has been driven by curiosity, continuous learning, and a commitment to making a positive impact with my code.
 
-Here are some ideas to get you started:
+Currently, I'm exploring fullstack development and enhancing my skills in modern web technologies. During my leisure time, you'll find me working on various coding challenges and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social Media: 
+Join me on GitHub, where I share my projects, insights, and development journey. Let's connect and create something amazing together!
+
+### Languages and Technologies:
+#### Languages:
+- **C**
+- **JavaScript**
+- **SQL**
+- **MySQL**
+- **HTML**
+- **CSS**
+
+#### Frameworks and Libraries:
+- **React.js**
+- **Node.js**
+- **Sequelize**
+
+#### Tools and Environments:
+- **Git**
+- **VS Code**
+- **GitHub**
+
+Let's connect and create something amazing together!
+
