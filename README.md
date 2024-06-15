@@ -20,8 +20,9 @@ Join me on GitHub, where I share my projects, insights, and development journey.
 #### Frameworks and Libraries:
 - **React.js**
 - **Node.js**
-- **Sequelize**
 - **Express.js**
+- **Sequelize**
+- **JsonWebToken**
 
 #### Tools and Environments:
 - **Git**
