@@ -21,6 +21,7 @@ Join me on GitHub, where I share my projects, insights, and development journey.
 - **React.js**
 - **Node.js**
 - **Sequelize**
+- **Express.js**
 
 #### Tools and Environments:
 - **Git**
