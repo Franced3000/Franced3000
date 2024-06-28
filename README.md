@@ -11,6 +11,7 @@ Join me on GitHub, where I share my projects, insights, and development journey.
 ### Languages and Technologies:
 #### Languages:
 - **C**
+- **TypeScript**
 - **JavaScript**
 - **SQL**
 - **MySQL**
@@ -18,7 +19,8 @@ Join me on GitHub, where I share my projects, insights, and development journey.
 - **CSS**
 
 #### Frameworks and Libraries:
-- **React.js**
+- **React**
+- **Next.js**
 - **Node.js**
 - **Express.js**
 - **Sequelize**
